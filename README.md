@@ -13,13 +13,9 @@ Python • C++ • Git • SQL• C • GoLang • C# • PHP• JS
 
 ## Currently Learning
 Backend Development & System Design
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratham-dev3107&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pratham-dev3107&layout=compact&theme=tokyonight" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratham-dev3107&theme=tokyonight)](https://git.io/streak-stats)
 <p align="center">
 <img src="https://github.com/pratham-dev3107/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
 </p>
