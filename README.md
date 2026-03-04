@@ -17,6 +17,9 @@ Backend Development & System Design
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pratham-dev3107&theme=tokyonight)](https://git.io/streak-stats)
 <p align="center">
+## 🐍 Contribution Snake
+
+<p align="center">
 <img src="https://github.com/pratham-dev3107/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
 </p>
 
