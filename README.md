@@ -1,10 +1,12 @@
 # Hi 👋 I'm Pratham Vashisht
 
-💻 CS Student | Aspiring Software Engineer and Devloper  
+💻 BCA Student | Aspiring Software Engineer  
 🚀 Interested in Backend Development & Automation  
+📍 India  
 
-## Tech Stack
-Python • C++ • Git • SQL• C • GoLang • C# • PHP• JS
+## 🚀 Tech Stack
+
+Python • C++ • Git • SQL • Golang • C# • PHP • JavaScript
 
 ## Projects
 - Python Automation Tools
